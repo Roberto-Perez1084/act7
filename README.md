@@ -6,7 +6,7 @@
 # ejemplo 2
 ![image](https://github.com/user-attachments/assets/40f1de79-54a6-423e-a051-3c981ce07c50)
 
-#ejemplo 3
+# ejemplo 3
 ![image](https://github.com/user-attachments/assets/09822fe8-1537-4d4c-a3c5-50819b293c1c)
 
 # ejemplo 4
